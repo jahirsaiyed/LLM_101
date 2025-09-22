@@ -1,0 +1,4 @@
+AI is the simulation of human intelligence in machines.
+Large Language Models (LLMs) are trained on vast amounts of text data.
+Retrieval-Augmented Generation (RAG) helps LLMs access external knowledge.
+Ollama lets you run LLMs locally without relying on cloud APIs.
